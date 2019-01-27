@@ -4,7 +4,6 @@ if speed < 40 || speed > 60
 else
 	false
 
-	binding.pry
 end
 end
 
